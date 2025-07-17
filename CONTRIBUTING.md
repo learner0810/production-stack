@@ -10,7 +10,6 @@ Once submitted, your proposal will be reviewed by the maintainers, and discussio
 
 *For small changes like bug fixes, documentation updates, minor optimizations, and simple features, feel free to directly create an issue or PR without the proposal.*
 
-## Opening a Pull Request
 
 Before submitting your pull request, please ensure it meets the following criteria. This helps maintain code quality and streamline the review process.
 
